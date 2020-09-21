@@ -1,1 +1,1 @@
-# Hidden-Handwritting-MNIST_CNN
+# Handwritting-MNIST_ANN-CNN
